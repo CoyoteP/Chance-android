@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chance</string>
+    <string name="title_activity_sendbird">SendBird</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_title">TitleActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+</resources>
